@@ -2,7 +2,7 @@
 
 A simple and intuitive calculator app with basic mathematical operations.
 
-![calculator0](https://github.com/anuragkanojiya1/Calculator/assets/144598258/fa82a12f-e1a6-410c-a5a5-70069b596e13)
+![calculator0](https://github.com/anuragkanojiya1/Calculator/assets/144598258/9a20fd9f-12a8-402b-966e-9d62cd38284c)
 
 
 ## Features
@@ -15,10 +15,11 @@ A simple and intuitive calculator app with basic mathematical operations.
 
 ## Screenshots
 
-(![calculator2o](https://github.com/anuragkanojiya1/Calculator/assets/144598258/a3295079-301e-4d92-a80c-50902e504f48)
-)
-(![calculator1o](https://github.com/anuragkanojiya1/Calculator/assets/144598258/8534d0e0-84fe-47e9-9aff-151c918ae4a6)
-)
+![calculator1o](https://github.com/anuragkanojiya1/Calculator/assets/144598258/a0f40111-e8f3-4172-8228-24460f30499a)
+
+![calculator2o](https://github.com/anuragkanojiya1/Calculator/assets/144598258/795aacd6-0cf8-432e-aeab-8bab1080a775)
+
+
 
 ## Usage
 
